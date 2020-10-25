@@ -9,6 +9,10 @@
 
 install.php只是创建一个数据表
 
+demo:http://一.cf/
+
+用BYET的分销做的，不要压测，谢谢
+
 ## 创建短链接
 
 访问https://你的网站/api.php?url=欲添加的URL
